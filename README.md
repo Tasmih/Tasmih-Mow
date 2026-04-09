@@ -6,8 +6,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Tasmih](https://github.com/Tasmih)  
 - 💬 Ask me about *JavaScript, React*  
 - 📫 How to reach me *tasmih.mow88@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tasmih-rob-mow" target="_blank">
@@ -44,8 +42,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40" height="40"/>
+</a>
 </p>
 
 <p align="center">
