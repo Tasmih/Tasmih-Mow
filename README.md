@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tasmih Rob Mow</h1>
 <h3 align="center">Frontend Developer | Future Full Stack Engineer. Currently developing expertise in React, JavaScript, and modern web development practices. Committed to building efficient, high-quality applications.</h3>
 
-- 🌱 I’m currently learning *React Routing*  
+- 🌱 I’m currently learning *React Routing*
+- 💻 Skills: HTML, CSS, JavaScript, React, Git, GitHub <br>
 - 👨‍💻 All of my projects are available at [https://github.com/Tasmih](https://github.com/Tasmih)  
 - 💬 Ask me about *JavaScript, React*  
 - 📫 How to reach me *tasmih.mow88@gmail.com*
