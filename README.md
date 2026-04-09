@@ -97,7 +97,7 @@ I like to keep things simple, write clean code, and learn by doing.
 
 ### 🔹 github-issue-management
 💻
-🔗🔗 [Project Link]( https://tasmih.github.io/github-issue-management/)
+🔗🔗 [Project Link](https://github.com/Tasmih/github-issue-management)
 
 
 
